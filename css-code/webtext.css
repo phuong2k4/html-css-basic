@@ -1,0 +1,95 @@
+*{
+    font-family: 'JetBrains Mono';
+}
+.div-title{
+    font-size: 25px;
+    font-weight: 800;
+    width: 500px;
+    line-height: 45px;
+}
+.div-view{
+    font-size: 17px;
+    color:rgb(85, 85, 85);
+    padding: 10px;
+}
+.div-author{
+    color:rgb(85, 85, 85);
+    margin: 15px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.div-content{
+    color:rgb(85, 85, 85);
+    margin: 10px;
+    width: 450px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27px;
+    margin-top: 22px;
+    margin-bottom: 100px;
+}
+.div-apple{
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    padding: 20px 24px;
+    margin: 0px 10px;
+    background-color: rgb(247, 41, 41);
+    margin-bottom: 100px;
+}
+.span-shop:hover{
+    text-decoration: underline;
+}
+.apple{
+    text-align: center;
+    font-weight: bold;
+}
+
+.apple-title{
+    color: orange;
+    font-size: 24px;
+}
+.apple-product{
+    font-size: 35px;
+}
+.apple-content{
+    font-size: 45px;
+}
+.apple-price{
+    font-weight: 300;
+    font-size: 25px;
+    padding: 15px;
+}
+.apple-btn{
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    background-color: rgb(68, 68, 233);
+    border-radius: 25px;
+    margin-bottom: 100px;
+}
+.f{
+    text-align: center;
+}
+
+.f-cost{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+.f-currency{
+    font-weight: 500;
+    font-size: 25px;
+    opacity: 0.5;
+}
+.f-growth{
+    color: green;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.f-down{
+    color: rgb(121, 121, 121);
+}
+.f_down{
+    color: red;
+}
